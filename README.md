@@ -1,2 +1,2 @@
 # data_struct
-This Repository Contains data struturs implemented in various languages
+This Repository Contains data structures implemented in various languages
